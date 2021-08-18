@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1Beta.Dto
 {
-    class Cliente
+    public class Cliente
     {
         public int id { get; set; }
         public string nombres { get; set; }

@@ -9,6 +9,7 @@ namespace ConsoleApp1Beta.Dto
     public class Persona
     {
         public int id { get; set; }
+        public string Dni { get; set; }
 
     }
 }
