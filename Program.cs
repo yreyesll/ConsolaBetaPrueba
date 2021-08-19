@@ -10,9 +10,8 @@ namespace ConsoleApp1Beta
             Cliente c = new Cliente();
             var url = c.UrlVideos;   
             
-            Console.WriteLine("esto es un cambio a las 11:55 am");
-            Console.Write("esto es un cambio a las 11:59 am");
-            Console.Write("esto es un cambio a las 12:20pm");
+            Console.WriteLine("esto es un cambio a las 19:40 pm");
+            
             Console.ReadKey();
         }
     }
